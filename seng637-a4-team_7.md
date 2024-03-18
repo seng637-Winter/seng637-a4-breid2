@@ -21,7 +21,8 @@ Range Testing from Assignment 3 Mutation Results:
 
 <img width="607" alt="image" src="https://github.com/seng637-Winter/seng637-a4-breid2/assets/49459800/38263c16-1432-4271-9992-760e0fee1642">
 
-
+Full Output from the Pit Test Can be seen in this file:
+[Output of Range Test](RangeMutationTest.xlsx)
 # Analysis drawn on the effectiveness of each of the test classes
 
 # A discussion on the effect of equivalent mutants on mutation score accuracy
