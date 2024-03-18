@@ -2,18 +2,25 @@
 
 **Lab. Report \#4 – Mutation Testing and Web app testing**
 
-| Group \#:      |     |
-| -------------- | --- |
-| Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
+| Group \#: 7     |
+| -------------- |
+| Student Names: |
+| Carissa Chung               |
+| Benjamin Reid               |
+| Braden Tink               |
+| Christian Valdez               |
+| Alton Wong               |
 
 # Introduction
 
 # Analysis of 10 Mutants of the Range class 
+The following mutants were found in the Range Class:
 
 # Report all the statistics and the mutation score for each test class
+Range Testing from Assignment 3 Mutation Results:
+
+<img width="607" alt="image" src="https://github.com/seng637-Winter/seng637-a4-breid2/assets/49459800/38263c16-1432-4271-9992-760e0fee1642">
+
 
 # Analysis drawn on the effectiveness of each of the test classes
 
